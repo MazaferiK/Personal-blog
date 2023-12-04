@@ -1,0 +1,61 @@
+.navbar-fondo {
+    width: 1000px;
+    height: 150px;
+    position: absolute;
+    left: 200px;
+    background: #000000;
+}
+
+.navbar-sitios-fondo {
+    width: 1000px;
+    height: 50px;
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    background: #000000;
+}
+
+.sitios-links-texto {
+    font-size: 18px;
+    text-align: center;
+    width: auto;
+    height: 40px;
+    position: absolute;
+    left: 250px;
+    top: 185px;
+    color:#ffffff;
+    border: #000000;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.fondo-texto-principal {
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    background: #ffffff;
+    border: 2px solid #000000;
+}
+
+.h2-texto-principal {
+    position: absolute;
+    left: 20px;
+}
+
+.texto-texto-principal {
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+
+.fondo-barra-informacion-principal {
+    width: 247px;
+    height: 300px;
+    position: absolute;
+    top: 250px;
+    left: 950px;
+    background: #ffffff;
+    border: 2px solid #000000;
+}
