@@ -40,17 +40,6 @@
     border: 2px solid #000000;
 }
 
-.h2-texto-principal {
-    position: absolute;
-    left: 20px;
-}
-
-.texto-texto-principal {
-    position: absolute;
-    top: 50px;
-    left: 20px;
-}
-
 .fondo-barra-informacion-principal {
     width: 247px;
     height: 300px;
@@ -59,17 +48,4 @@
     left: 950px;
     background: #ffffff;
     border: 2px solid #000000;
-}
-
-.profile-picture-principal {
-    position: relative;
-    top: 10px;
-    left: 10px;
-    border: 2px solid #000000;
-}
-
-.texto-barra-informacion-principal {
-    margin-right: 10px;
-    line-height: 22px;
-    margin-left: 10px;
 }
