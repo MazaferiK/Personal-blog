@@ -1,17 +1,8 @@
-.navbar-fondo {
-    width: 1000px;
-    height: 150px;
-    position: absolute;
-    left: 200px;
-    background: #ffffff;
-    border: 2px solid #000000;
-}
-
 .navbar-sitios-fondo {
     width: 1000px;
     height: 50px;
     position: absolute;
-    top: 180px;
+    top: 20px;
     left: 200px;
     background: #000000;
     border: 2px solid #000000;
@@ -34,8 +25,8 @@
     width: 725px;
     height: 300px;
     position: absolute;
-    top: 250px;
-    left: 200px;
+    top: 68px;
+    left: -2px;
     background: #ffffff;
     border: 2px solid #000000;
 }
@@ -55,8 +46,8 @@
     width: 247px;
     height: 300px;
     position: absolute;
-    top: 250px;
-    left: 950px;
+    top: 70px;
+    left: 750px;
     background: #ffffff;
     border: 2px solid #000000;
 }
