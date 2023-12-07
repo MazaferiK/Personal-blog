@@ -30,7 +30,6 @@
     background: #ffffff;
     border: 2px solid #000000;
 }
-
 .fondo-barra-informacion-principal {
     width: 247px;
     height: 300px;
@@ -39,4 +38,30 @@
     left: 750px;
     background: #ffffff;
     border: 2px solid #000000;
+}
+
+.cuadrado-notas {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    background: #ffffff;
+    border: 2px solid #000000;
+}
+
+.texto-principal {
+    position: relative;
+    top: -12px;
+    padding-bottom: 0px;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+
+.imagenes-ok {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+    z-index: 1;
 }
