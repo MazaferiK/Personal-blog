@@ -23,7 +23,7 @@
 
 .fondo-texto-principal {
     width: 725px;
-    height: 300px;
+    height: 400px;
     position: absolute;
     top: 68px;
     left: -2px;
@@ -38,6 +38,19 @@
     left: 750px;
     background: #ffffff;
     border: 2px solid #000000;
+}
+
+.profile-picture-principal {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid #000000;
+}
+
+.texto-barra-informacion-principal {
+    margin-right: 10px;
+    line-height: 22px;
+    margin-left: 10px;
 }
 
 .cuadrado-notas {
