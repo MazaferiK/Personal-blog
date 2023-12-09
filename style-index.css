@@ -1,3 +1,7 @@
+body {
+    background-color: #fd8392;
+}
+
 .navbar-sitios-fondo {
     width: 1000px;
     height: 50px;
@@ -19,6 +23,20 @@
     border: #000000;
     background-color: transparent;
     cursor: pointer;
+}
+
+.vinculos-links-texto {
+    font-size: 18px;
+    text-align: center;
+    width: auto;
+    top: -40px;
+    left: 900px;
+    position: relative;
+    color:#ffffff;
+    border: #000000;
+    background-color: transparent;
+    cursor: pointer;
+    z-index: 1;
 }
 
 .fondo-texto-principal {
@@ -46,7 +64,7 @@
     width: 247px;
     height: 300px;
     position: absolute;
-    top: 70px;
+    top: 69px;
     left: 750px;
     background: #ffffff;
     border: 2px solid #000000;
