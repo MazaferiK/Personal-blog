@@ -1,0 +1,103 @@
+body {
+    background-color: #fd8392;
+}
+
+.navbar-sitios-fondo {
+    width: 1000px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    background: #000000;
+    border: 2px solid #000000;
+}
+
+.sitios-links-texto {
+    font-size: 18px;
+    text-align: center;
+    width: auto;
+    height: 45px;
+    left: 50px;
+    position: relative;
+    color:#ffffff;
+    border: #000000;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.vinculos-links-texto {
+    font-size: 18px;
+    text-align: center;
+    width: auto;
+    top: -40px;
+    left: 900px;
+    position: relative;
+    color:#ffffff;
+    border: #000000;
+    background-color: transparent;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.fondo-texto-principal {
+    width: 725px;
+    height: 300px;
+    position: absolute;
+    top: 68px;
+    left: -2px;
+    background: #ffffff;
+    border: 2px solid #000000;
+}
+
+.videos-galeria-videos {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: #ffffff;
+    border: 2px solid #000000;
+    cursor: pointer;
+}
+
+.salida-galeria-videos {
+    width: 70px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: #ffffff;
+    border: 2px solid #000000;
+    cursor: pointer;
+}
+
+.salida-galeria-videos-interaccion {
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.fondo-barra-informacion-principal {
+    width: 247px;
+    height: 300px;
+    position: absolute;
+    top: 69px;
+    left: 750px;
+    background: #ffffff;
+    border: 2px solid #000000;
+}
+
+.profile-picture-principal {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid #000000;
+}
+
+.texto-barra-informacion-principal {
+    margin-right: 10px;
+    line-height: 22px;
+    margin-left: 10px;
+}
