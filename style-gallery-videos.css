@@ -41,7 +41,7 @@ body {
 
 .fondo-texto-principal {
     width: 725px;
-    height: 300px;
+    height: 500px;
     position: absolute;
     top: 68px;
     left: -2px;
@@ -51,8 +51,8 @@ body {
 
 .paneles {
     position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 50px;
+    left: 55px;
 }
 
 .test-galeria-miniatura {
@@ -73,7 +73,7 @@ body {
     width: 70px;
     height: 30px;
     position: absolute;
-    top: 250px;
+    top: 450px;
     left: 630px;
     background: #ffffff;
     border: 2px solid #000000;
